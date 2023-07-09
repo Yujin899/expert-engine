@@ -263,7 +263,7 @@ section {
 }
 @media (max-width: 500px) {
   .landing .btns {
-    top: 68.5%;
+    top: 70%;
 
   }
 }
@@ -603,7 +603,6 @@ section {
 }
 footer {
   background-color: #1b3152;
-}
   padding: 30px;
   text-align: center;
   color: #eee;
