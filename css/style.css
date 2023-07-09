@@ -27,6 +27,11 @@ header {
   align-items: center;
   padding: 30px 10%;
 }
+@media (max-width: 991px) {
+  header {
+    padding: 30px 5%;
+  }
+}
 header .logo {
   font-size: 25px;
   color: white;
@@ -220,6 +225,11 @@ section {
     left: 10%;
     line-height: 60px;
 }
+@media (max-width: 991px) {
+  .landing .text {
+    left: 5%;
+    }
+}
 .landing .text span:first-child {
     color: #385c88;
  text-transform: uppercase;
@@ -238,6 +248,11 @@ section {
   left: 10%;
   top: 55%;
 
+}
+@media (max-width: 991px) {
+  .landing .btns {
+    left: 5%;
+    }
 }
 @media (max-width: 767px) {
   .landing .btns {
