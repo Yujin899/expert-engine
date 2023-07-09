@@ -256,14 +256,14 @@ section {
 }
 @media (max-width: 767px) {
   .landing .btns {
-    top: 60%;
+    top: 62%;
 
   }
 
 }
 @media (max-width: 500px) {
   .landing .btns {
-    top: 68%;
+    top: 68.5%;
 
   }
 }
@@ -606,29 +606,4 @@ footer {
   padding: 30px;
   text-align: center;
   color: #eee;
-}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-@keyframes type-writer {
-    from {
-        width: 0;
-    }
-    to {
-        width: 435px;
-    }
 }
